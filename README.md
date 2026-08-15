@@ -1,56 +1,72 @@
 # 👋 Hi, I'm Andrés Quesada González
 
-🎓 Computer Science & Engineering student @ Universidad de Costa Rica  
-💼 Focus: Software Development • Automation • Systems  
+🎓 Computer Science & Engineering @ Universidad de Costa Rica  
+💼 System Software Engineer @ Hewlett Packard Enterprise  
+⚙️ Systems Software • ASIC Validation & Emulation • Low-Level Programming  
+🧠 Interested in Machine Learning, Computer Architecture & Research  
 🌍 San José, Costa Rica  
-✉️ [andresquesadagon4@gmail.com](mailto:andresquesadagon4@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/andresquesadag)
+
+✉️ [Email](mailto:andresquesadagon4@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/andresquesadag)
 
 ---
 
-**About Me | Sobre mí**  
-EN: I build practical solutions with **software + automation**, from AI prototypes to distributed systems.  
-ES: Creo soluciones prácticas con **software + automatización**, desde prototipos de IA hasta sistemas distribuidos.
+## About Me
+
+I'm a Computer Science & Engineering graduate focused on **systems software and low-level development**.
+
+At HPE, I develop software for **ASIC validation, emulation, and hardware tooling**, working with Python, C/C++, PCIe, memory-mapped hardware, Linux, and automated testing.
+
+I'm also interested in **machine learning and computer science research**, with projects spanning NLP, computer architecture, simulation, and quantum machine learning.
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Technologies
 
-**Programming**
+### Systems & Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-
-**Frameworks & Runtimes**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-
-**Data & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-**Automation & Systems**
-![UiPath](https://img.shields.io/badge/UiPath-FF6C37?logo=uipath&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-**Low-Level**
+### Hardware & Computer Architecture
+
+![RISC-V](https://img.shields.io/badge/RISC--V-283272)
 ![VHDL](https://img.shields.io/badge/VHDL-6A1B9A)
 ![Verilog](https://img.shields.io/badge/Verilog-00979D)
-![Logisim Evolution](https://img.shields.io/badge/Logisim%20Evolution-5D2B90)
+![PCIe](https://img.shields.io/badge/PCIe-Low--Level%20I%2FO-blue)
 
-**Game dev**
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+### Machine Learning & Data
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
+### Development & Testing
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 
 ---
 
-✨ *Pinned repositories showcase my most relevant projects.*
+## 🔬 Selected Projects
+
+### 📰 BETenio
+Machine learning research project for **AI-generated vs. human-written Spanish news detection** using transformer-based NLP models. Presented at **JoCiCi 2026**.
+
+### ⚙️ RISC-V Processor
+Designed and implemented a **dual-core 32-bit RISC-V (RV32I) processor** using Logisim Evolution and VHDL, including pipelining, cache/memory hierarchy, and a **Tomasulo-based dynamic scheduling unit**.
+
+### 🔄 TransPYler
+Built a **Python-to-C++ transpiler** with lexical analysis, AST-based parsing, code generation, and a custom runtime for emulating Python's dynamic typing in C++.
+
+### ⚛️ Quantum Machine Learning
+Developed and evaluated **quantum kernel SVMs**, comparing standard quantum feature maps with a custom quantum circuit for classification.
+
+---
+
+✨ *Check out my pinned repositories for implementations, experiments, and documentation.*
